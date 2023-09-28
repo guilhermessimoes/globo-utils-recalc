@@ -1,0 +1,12 @@
+{
+  "name": "globo-utils-recalc",
+  "version": "1.0.0",
+  "description": "Pacote úteis para recalculado de grade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Globo", "Recalc"],
+  "author": "Guilherme Simoes",
+  "license": "ISC"
+}
